@@ -1,2 +1,0 @@
-# angularjs-hrm
-angularjs-hrm
